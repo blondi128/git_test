@@ -1,0 +1,23 @@
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  border-radius: 5px;
+}
+
+table {
+  table-layout: fixed;
+  width: 70%;
+}
+
+th,
+td {
+  border-color: blueviolet;
+  width: 50px;
+}
+
+tr,
+th {
+  height: 30px;
+}
